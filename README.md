@@ -49,6 +49,9 @@ Luckily I've been keeping track of the ones currently in the game and have been 
 Currently, there are a few big bugs that need to be fixed.
 
 - [ ] Shurukins fly through walls
-- [ ] Spamming the left click causes shurukins to be thrown much faster than should be
+- [ ] Spamming the left click causes shurukins to be thrown much faster than they should be
 - [ ] Sometimes the enemy takes double damage from the shurukin hitting their baton and body
 - [ ] **The player doesn't take damage** (Hah, thats a big one)
+
+As for limitations, the only general limitation I have had is a lack of knowledge myself. 
+
