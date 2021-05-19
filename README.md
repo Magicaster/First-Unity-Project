@@ -66,4 +66,17 @@ The way you would set it up would actually be very simple. If you want to edit t
 Here is an admittedly pretty long video of me currently showing what I have accomplished. [Current](https://drive.google.com/file/d/1v6pSGro9S3cnbIT_KKRfoEL9j6TUe2BT/view)
 
 Here is a link to older videos, oldest to newest. 
+
 [Deliverable 1](https://drive.google.com/file/d/1Vy-RxBZPSmEqQ2-xhZ7oVfWkHn_sJjS_/view)
+
+[Deliverable 2](https://drive.google.com/file/d/1f9jg7ftUcaHnwzgcCQQvrfExgve-AeYr/view)
+
+
+## Checklist for my work, seeing what I've done and haven't.
+
+- [X] Create a movable character
+- [X] Simple physics
+- [X] Rotating player
+- [X] 
+- 
+- 
