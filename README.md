@@ -16,3 +16,4 @@ I chose to do Unity as my project because of a few reasons:
 My project is currently **Unfinished** and is in a general working state, but I am able to move at a fast pace when it comes to it and am almost complete with my roadmap of where I thought I would be at this point. 
 
 ![GitHub Logo](image_2021-05-19_084250.png)
+Here we have my main character (The one in red) being chased by the enemy (The one in blue). Currently the enemy only chases the player, and has no advanced ai of any kind. 
