@@ -63,7 +63,9 @@ The way you would set it up would actually be very simple. If you want to edit t
 
 ## Past versions and reflections
 
-Here is an admittedly pretty long video of me currently showing what I have accomplished. [Current](https://drive.google.com/file/d/1v6pSGro9S3cnbIT_KKRfoEL9j6TUe2BT/view)
+Here is an admittedly pretty long video of me currently showing what I have accomplished. 
+
+[Current](https://drive.google.com/file/d/1v6pSGro9S3cnbIT_KKRfoEL9j6TUe2BT/view)
 
 Here is a link to older videos, oldest to newest. 
 
@@ -77,6 +79,15 @@ Here is a link to older videos, oldest to newest.
 - [X] Create a movable character
 - [X] Simple physics
 - [X] Rotating player
-- [X] 
-- 
-- 
+- [X] Characters don't fall over
+- [X] Working enemy
+- [X] A ranged weapon
+- [X] Enemy gets damaged
+- [X] Basic modeling
+- [ ] A moving camera
+- [ ] Player gets damaged
+- [ ] Better enemy AI
+- [ ] More advanced modeling
+- [ ] Fix known bugs
+
+# Thanks for reading, I'll be sure to update this when things progress
