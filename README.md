@@ -35,12 +35,12 @@ The only tech that was used in making this was the Unity program itself, and a p
 
 ## What sources did you use to help you?
 
-This series helped me out with the camera and how to make models. [Github](https://www.youtube.com/watch?v=lkDGk3TjsIE&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9&index=1&ab_channel=gamesplusjamesgamesplusjames)
+This series helped me out with the camera and how to make models. [Youtube link](https://www.youtube.com/watch?v=lkDGk3TjsIE&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9&index=1&ab_channel=gamesplusjamesgamesplusjames)
 
 As well as some minor reasources here and there, though this was the biggest help. 
 
 
-## Limitations, and bugs
+## Limitations and bugs
 
 There... There were a lot of bugs, going through this process.
 
@@ -55,3 +55,15 @@ Currently, there are a few big bugs that need to be fixed.
 
 As for limitations, the only general limitation I have had is a lack of knowledge myself. 
 
+
+## How would you set this up?
+
+The way you would set it up would actually be very simple. If you want to edit the file, then you need roo download the work files, and add them to your unity hub and you would be able to edit your own version of it and look at everything easily, though if you want to change or add code you will need a code writer such as Microsoft visual studio. If you just want to play it, you don't even need to install unity, just download the game and run it. 
+
+
+## Past versions and reflections
+
+Here is an admittedly pretty long video of me currently showing what I have accomplished. [Current](https://drive.google.com/file/d/1v6pSGro9S3cnbIT_KKRfoEL9j6TUe2BT/view)
+
+Here is a link to older videos, oldest to newest. 
+[Deliverable 1](https://drive.google.com/file/d/1Vy-RxBZPSmEqQ2-xhZ7oVfWkHn_sJjS_/view)
