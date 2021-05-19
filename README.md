@@ -36,3 +36,19 @@ The only tech that was used in making this was the Unity program itself, and a p
 ## What sources did you use to help you?
 
 This series helped me out with the camera and how to make models. [Github](https://www.youtube.com/watch?v=lkDGk3TjsIE&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9&index=1&ab_channel=gamesplusjamesgamesplusjames)
+
+As well as some minor reasources here and there, though this was the biggest help. 
+
+
+## Limitations, and bugs
+
+There... There were a lot of bugs, going through this process.
+
+Luckily I've been keeping track of the ones currently in the game and have been trying to stop them. 
+
+Currently, there are a few big bugs that need to be fixed.
+
+- [ ] Shurukins fly through walls
+- [ ] Spamming the left click causes shurukins to be thrown much faster than should be
+- [ ] Sometimes the enemy takes double damage from the shurukin hitting their baton and body
+- [ ] **The player doesn't take damage** (Hah, thats a big one)
