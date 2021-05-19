@@ -16,4 +16,10 @@ I chose to do Unity as my project because of a few reasons:
 My project is currently **Unfinished** and is in a general working state, but I am able to move at a fast pace when it comes to it and am almost complete with my roadmap of where I thought I would be at this point. 
 
 ![GitHub Logo](image_2021-05-19_084250.png)
+
 Here we have my main character (The one in red) being chased by the enemy (The one in blue). Currently the enemy only chases the player, and has no advanced ai of any kind. 
+
+![Github Logo](image_2021-05-19_084329.png)
+
+Here is an outer look at the same scene. Currently the room is just a simple box. Here we also get a glimpse at howthe camera works. As you can see, from the camera there shoots out a blue line that hits the ground. That line is how the player is able to "see" where the mouse is. We have the camera shoot a "ray" down to the mouse position, then have the character turn to look at that ray. 
+
