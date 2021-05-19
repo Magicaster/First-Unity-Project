@@ -23,3 +23,7 @@ Here we have my main character (The one in red) being chased by the enemy (The o
 
 Here is an outer look at the same scene. Currently the room is just a simple box. Here we also get a glimpse at howthe camera works. As you can see, from the camera there shoots out a blue line that hits the ground. That line is how the player is able to "see" where the mouse is. We have the camera shoot a "ray" down to the mouse position, then have the character turn to look at that ray. 
 
+![Github Logo](image_2021-05-19_084413.png)
+
+Here the main character is throwing a prototype Shurukin (Throwing star). This is the weapon the character uses mainly for now. It's a bit hard to see but you can see its shadow. The shurukin damages the enemy, and 5 shurukin hits will defeat an enemy. 
+
