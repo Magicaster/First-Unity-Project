@@ -27,3 +27,12 @@ Here is an outer look at the same scene. Currently the room is just a simple box
 
 Here the main character is throwing a prototype Shurukin (Throwing star). This is the weapon the character uses mainly for now. It's a bit hard to see but you can see its shadow. The shurukin damages the enemy, and 5 shurukin hits will defeat an enemy. 
 
+
+## What tech did I use?
+
+The only tech that was used in making this was the Unity program itself, and a program called Microsoft Visual Studio which let me write code in C# directly to unity. 
+
+
+## What sources did you use to help you?
+
+This series helped me out with the camera and how to make models. [Github](https://www.youtube.com/watch?v=lkDGk3TjsIE&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9&index=1&ab_channel=gamesplusjamesgamesplusjames)
