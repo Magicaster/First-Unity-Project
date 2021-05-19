@@ -12,3 +12,7 @@ I chose to do Unity as my project because of a few reasons:
 
 
 ## A demo of My project
+
+My project is currently **Unfinished** and is in a general working state, but I am able to move at a fast pace when it comes to it and am almost complete with my roadmap of where I thought I would be at this point. 
+
+![GitHub Logo](/images/logo.png)
